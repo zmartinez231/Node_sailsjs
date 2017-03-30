@@ -1,0 +1,93 @@
+	.navbar-wrapper{
+			background-color: #9dd5d4;
+			padding: 10px ;
+		}
+		.lia{
+			font-family: "Fengardo Neue";
+			color:#ffffff;
+			font-size: 20px;
+			transition: all ease 0.5s;
+		}
+		.liat{
+			font-family: "Fengardo Neue";
+			color:#ffffff;
+			font-size: 40px;
+		}
+		.tex{
+			font-family: "Fengardo Neue";
+			color:#ffffff;
+		}
+		.mysection{
+			padding-bottom: 20%;
+			
+		}
+		.tabla{
+			font-family: "Fengardo Neue";
+			color:#ffffff;
+			font-size: 20px;
+		}
+		tr:hover{
+			background-color: #9dd5d4;
+			cursor: pointer;
+		}
+
+
+		body{
+			background-color: #9db7b8;
+		}
+		header{
+			margin:50px;
+		}
+		nav{
+			margin-top: 10px;
+		}
+		section{
+			font-family: "Fengardo Neue";
+
+		}
+		@font-face
+		{
+		   font-family: "Fengardo Neue";
+		   src: url("../fonts/FengardoNeue_Regular.otf");
+		 
+		}
+		.myfooter{
+			padding: 15px 0;
+			margin-top: 7%;
+			background-color: #9dd5d4;
+			font-family: "Fengardo Neue";
+
+		}
+		.principal{
+
+		}
+
+		button {
+		 border: none;
+		 background: #9dd5d4;
+		 color: #f2f2f2;
+		 padding: 9px;
+		 font-size: 16px;
+		 position: relative;
+		 transition: all 500ms ease;
+		}
+		button:hover {
+		 background:#ffffff;
+		 color: #3a7999;
+		 box-shadow: inset 0 0 0 3px #3a7999;
+		}
+
+		.arriba{
+			display: none;
+			padding: 20px;
+			background: #024959;
+			font-size: 20px;
+			color:#fff;
+			cursor:pointer;
+			position: fixed;
+			bottom: 20px;
+			right:20px;
+			border-radius: 100%;
+		}
+
+
